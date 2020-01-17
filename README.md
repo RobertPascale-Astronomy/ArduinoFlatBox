@@ -4,10 +4,11 @@ LEDLightBoxAlnitak - PC controlled lightbox implmented using the Alnitak (Flip-F
 ## Who
 * Created By: Jared Wellman - jared@mainsequencesoftware.com here https://github.com/jwellman80/ArduinoLightbox
 * Adapted to V4 protocol By: Igor von Nyssen - igor@vonnyssen.com
+* Added enhanced PWM frequency code as per https://www.cloudynights.com/topic/536533-diy-alnitak-flat-panel/?p=9340078 - By: Robert Pascale
 
 
 ## When
-  Last modified:  2019/December/19
+  Last modified:  2020/January/17
 
 Typical usage on the command prompt below. Please note that commands end in CR '\r' and responses end in LF '\n'. Neither end in both, so do not use Serial.println. The character in `OOO` is the letter O, not the digit 0.
 
